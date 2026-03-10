@@ -56,7 +56,7 @@ endmodule
 
 
 **RTL realization**
-<img width="1920" height="1080" alt="Screenshot 2026-03-09 194310" src="https://github.com/user-attachments/assets/7650fcf7-8e36-4d3e-a7a0-62415636d013" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-09 193004" src="https://github.com/user-attachments/assets/9134e7b9-a620-4a0d-9d63-2dfa5e40003c" />
 
 
 **RTL**
