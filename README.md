@@ -56,10 +56,12 @@ endmodule
 
 
 **RTL realization**
-![Uploading Screenshot 2026-03-09 193004.png…]()
+<img width="1920" height="1080" alt="Screenshot 2026-03-09 194310" src="https://github.com/user-attachments/assets/7650fcf7-8e36-4d3e-a7a0-62415636d013" />
+
 
 **RTL**
-![Uploading Screenshot 2026-03-09 194310.png…]()
+<img width="1920" height="1080" alt="Screenshot 2026-03-09 194310" src="https://github.com/user-attachments/assets/e72f90e5-c577-4509-96df-3a078b0fc84e" />
+
 
 
 
